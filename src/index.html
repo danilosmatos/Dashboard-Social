@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Visual DashBoard</title>
+</head>
+<body>
+    <div class="layout">
+        <aside class="sidebar">
+            <div class="sidebar-logo">
+                <img src="dashboard.png" width="36" height="36" style="border-radius: 8px;"/>
+            </div>
+
+            <p class="sidebar-label">Colaboradores</p>
+            <div id ='usuarios'>
+                <p class="loading-text">Carregando...</p>
+            </div>
+        </aside>
+        <main class="main">
+            <div class="topbar">
+            <h1 class="topbar-title">DashBoard Social</h1>
+            <span class="api-badge" id="api-badge">Conectando...</span>
+        </div>
+
+        <div class="empty-state", id="empty-state">
+            <p>
+                Selecione um colaborador para ver os posts
+            </p>
+
+        </div>
+
+        <div class="perfil-card", id="perfil-card", style="display: none;">
+
+        </div>
+        <div class="avatar", id="avatar">---</div>
+
+        <div class="perfil-info">
+            <p class="nome-perfil", id="nome-perfil"> </p>
+            <p class="detalhe-perfil", id="email-perfil"></p>
+            <p class="detalhe-perfil", id="empresa-perfil"></p>
+        </div>
+        <div class="status-perfil">
+            <span class="num-status", id="perfil-total">0</span>
+            <span class="status-label">Postagens</span>
+        </div>
+    </div>
+    <div id="secao-posts", style="display: none;">
+        <h2 class="titulo-selecao">Postagens Recentes</h2>
+        <div id="postagens"></div>
+
+        <p class="erro", id="erro", style="display: none;">Falha na conexão! <br> Erro ao conectar com a API. Verifique sua conexão</p>
+        </main>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
