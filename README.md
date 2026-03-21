@@ -4,7 +4,11 @@
 O projeto simula um processo real de Engenharia de Software: entender requisitos, modelar o sistema, criar um protótipo que consome uma API externa e defender a arquitetura.
 
 ### Tecnologias Usadas
-Python 3.10+
+>Python 3.10+
+>
+>JavaScript
+>
+>HTML & CSS
 
 ### Estrutura do Projeto
 
