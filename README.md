@@ -21,7 +21,7 @@ Baixar os arquivos e executar o main.py, nenhuma importação externa requerida.
 ### Links Importantes
 [Canvas Modelagem de Dados](https://afya.instructure.com/courses/152724/assignments/1242591) |
 [Diagrama UML](https://github.com/danilosmatos/Dashboard-Social/blob/main/docs/Diagrama%20UML.jpg) |
-[PRD]()
+[PRD](https://github.com/danilosmatos/Dashboard-Social/blob/main/docs/PRD%20%E2%80%94%20Dashboard%20de%20Comunica%C3%A7%C3%A3o%20Interna.pdf)
 
 ### Partipantes
 
