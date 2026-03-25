@@ -16,7 +16,7 @@ Baseado no modelo MVC (Model, View e Controller), junto do services que faz a co
 
 ### Execução do Projeto
 
-Baixar os arquivos e executar o main.py, nenhuma importação externa requerida.
+Com o projeto importado, rode o services.py primeiro e depois usando a extensão go live do vscode vá para o index.html e use ela.
 
 ### Links Importantes
 [Canvas Modelagem de Dados](https://afya.instructure.com/courses/152724/assignments/1242591) |

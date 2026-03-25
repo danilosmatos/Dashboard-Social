@@ -1,4 +1,4 @@
-const API = 'https://jsonplaceholder.typicode.com'
+const API = 'http://127.0.0.1:5000'
 const TIMEOUT = 8000;
 
 function fetchComTimeout(url) {
