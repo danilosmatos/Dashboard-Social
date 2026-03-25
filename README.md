@@ -20,8 +20,8 @@ Baixar os arquivos e executar o main.py, nenhuma importação externa requerida.
 
 ### Links Importantes
 [Canvas Modelagem de Dados](https://afya.instructure.com/courses/152724/assignments/1242591) |
-[Diagrama UML]() |
-[Relatório]()
+[Diagrama UML](https://github.com/danilosmatos/Dashboard-Social/blob/main/docs/Diagrama%20UML.jpg) |
+[PRD]()
 
 ### Partipantes
 
@@ -31,4 +31,4 @@ Professores:
 Alunos:  
 | [Antônio Gabriel](https://github.com/Anton-Gabriel-code) | [Danilo Soares Matos](https://github.com/danilosmatos) | [Eudes de Oliveira Rocha](https://github.com/eudesolv) |  
 
-| [Vinicius Augusto](https://github.com/Vinicius1213) | [Ian Monteiro](https://github.com/ianMonteiro07)
+| [Vinicius Augusto](https://github.com/Vinicius1213) |
