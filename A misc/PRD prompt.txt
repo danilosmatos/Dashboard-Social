@@ -1,0 +1,23 @@
+﻿"Atue como um Product Manager Senior com foco em Engenharia de Software. Preciso que você escreva um PRD completo e detalhado para um MVP de um Dashboard de Comunicação Interna voltado para startups.
+
+O objetivo principal deste projeto é validar a interface e o fluxo de navegação antes de investirmos em um BackEnd próprio. Para isso, o sistema deve ser projetado para consumir a API pública JSONPlaceholder.
+
+Por favor, estruture o documento com os seguintes tópicos:
+
+    Visão Geral: Descrição do problema de fragmentação de comunicação (Slack/E-mail) e a proposta de valor.
+
+    Objetivos: Divida em objetivos de negócio (validação rápida) e técnicos (arquitetura desacoplada).
+
+    Métricas de Sucesso: Liste KPIs de performance e engajamento.
+
+    Escopo do MVP: Liste claramente o que entra (listagem de users, posts e comments) e o que está fora (Auth, CRUD, DB).
+
+    User Stories: No formato padrão, com critérios de aceitação e foco em estados de loading/erro.
+
+    Arquitetura e Modelagem: Descreva uma arquitetura MVC Cliente-Servidor e detalhe as classes (Postagem, Comentário, Usuário) e seus relacionamentos.
+
+    Resiliência e Falhas: Detalhe como o sistema deve lidar com erros de API e timeouts.
+
+    Tecnologias e Roadmap: Sugira um stack moderno (ex: React + TS) e liste os próximos passos para a versão pós-MVP (Auth, WebSockets, DB real).
+
+Tom de voz: Profissional, técnico e focado em viabilidade e escalabilidade. Use Markdown para formatação e tabelas onde necessário."
